@@ -1,0 +1,11 @@
+co\com\novaip\novaip_gestion\jpa\entities\Tarea_.class
+co\com\novaip\novaip_gestion\rest\services\NewCrossOriginResourceSharingFilter.class
+co\com\novaip\novaip_gestion\jpa\entities\Tarea.class
+co\com\novaip\novaip_gestion\jpa\sessions\TareaFacade.class
+co\com\novaip\novaip_gestion\jpa\sessions\UsuarioFacade.class
+co\com\novaip\novaip_gestion\rest\services\TareaREST.class
+co\com\novaip\novaip_gestion\rest\services\AppConfig.class
+co\com\novaip\novaip_gestion\jpa\sessions\AbstractFacade.class
+co\com\novaip\novaip_gestion\rest\services\UsuarioREST.class
+co\com\novaip\novaip_gestion\jpa\entities\Usuario.class
+co\com\novaip\novaip_gestion\jpa\entities\Usuario_.class
